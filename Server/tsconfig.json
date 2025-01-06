@@ -1,0 +1,17 @@
+{
+  "include": ["src/**/*", "tests/**/*"],
+  "exclude": ["node_modules"],
+  "compilerOptions": {
+    "lib": ["es2022"],
+    "target": "es2016",
+    "module": "CommonJS",
+    "strict": true ,
+    "esModuleInterop": true,
+    "skipLibCheck": true ,
+    "forceConsistentCasingInFileNames": false,
+    "outDir": "./dist",
+    "baseUrl": ".",
+    "noImplicitAny": true,
+    "strictNullChecks": true
+  }
+}
