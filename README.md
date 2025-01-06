@@ -1,5 +1,7 @@
 # PicT (AI-Powered tourist recommendation platform)
 
+**PROJECT NAME : PicT**
+
 This project aims to invigorate domestic tourism by using AI models to recommend tourist spots in South Korea that are similar to the places users are interested in, based on photos they provide. It also enables users to create and manage their travel plans centered around these locations.
 
 ## 1. Intro
