@@ -68,7 +68,7 @@ This project aims to invigorate domestic tourism by using AI models to recommend
 ## 6. Results
 
 - Main
-  <img width="534" alt="Screenshot 2025-01-05 at 11 16 47 PM" src="https://github.com/user-attachments/assets/dc719fee-150a-4032-aebe-056547953529" />
+  <img width="534" alt="Screenshot 2025-01-05 at 11 16 47 PM" src="https://github.com/user-attachments/assets/dc719fee-150a-4032-aebe-056547953529" style="width: 100%;/>
 
 - SignIn & SignUp
   <img width="430" alt="Screenshot 2025-01-05 at 11 16 36 PM" src="https://github.com/user-attachments/assets/caec1e41-55fe-4806-84e2-28b51b14016c" />
