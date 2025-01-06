@@ -4,11 +4,11 @@ This project aims to invigorate domestic tourism by using AI models to recommend
 
 ## 1. Intro
 
-![Asset 3](https://github.com/user-attachments/assets/216e3d87-937d-47ea-84a3-883ccfb3e4ba)
+![Asset 3](https://github.com/user-attachments/assets/09c9151b-97a2-4b81-80fa-7d18c8cd3819)
 
 ## 2. Project Duration
 
-    2024. August ( 1 Month )
+- 2024 August ( 1 Month )
 
 ## 3. Tech Stack
 
