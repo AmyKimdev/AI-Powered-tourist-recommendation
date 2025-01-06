@@ -68,13 +68,14 @@ This project aims to invigorate domestic tourism by using AI models to recommend
 ## 6. Results
 
 - Main
-  <img width="534" alt="Screenshot 2025-01-05 at 11 16 47 PM" src="https://github.com/user-attachments/assets/dc719fee-150a-4032-aebe-056547953529" style="width: 100%;/>
+
+  <img width="968" alt="Screenshot 2025-01-05 at 11 16 47 PM" src="https://github.com/user-attachments/assets/dc719fee-150a-4032-aebe-056547953529" style="width: 100%;/>
 
 - SignIn & SignUp
-  <img width="430" alt="Screenshot 2025-01-05 at 11 16 36 PM" src="https://github.com/user-attachments/assets/caec1e41-55fe-4806-84e2-28b51b14016c" />
+  <img width="968" alt="Screenshot 2025-01-05 at 11 16 36 PM" src="https://github.com/user-attachments/assets/caec1e41-55fe-4806-84e2-28b51b14016c" />
 
 - AI result Modal
-  <img width="491" alt="Screenshot 2025-01-05 at 11 16 20 PM" src="https://github.com/user-attachments/assets/c0208143-6343-46bd-b0d6-8d4bb397baff" />
+  <img width="968" alt="Screenshot 2025-01-05 at 11 16 20 PM" src="https://github.com/user-attachments/assets/c0208143-6343-46bd-b0d6-8d4bb397baff" />
 
 - Travel Planning
-  <img width="375" alt="Screenshot 2025-01-05 at 11 16 07 PM" src="https://github.com/user-attachments/assets/8ad202ed-b0d5-4126-8781-8bd4e6e569dd" />
+  <img width="968" alt="Screenshot 2025-01-05 at 11 16 07 PM" src="https://github.com/user-attachments/assets/8ad202ed-b0d5-4126-8781-8bd4e6e569dd" />
