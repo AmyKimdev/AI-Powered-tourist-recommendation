@@ -8,6 +8,9 @@ This project aims to invigorate domestic tourism by using AI models to recommend
 
 ![Asset 3](https://github.com/user-attachments/assets/09c9151b-97a2-4b81-80fa-7d18c8cd3819)
 
+- ERD
+  <img width="968" alt="Screenshot 2025-01-05 at 4 13 51 PM" src="https://github.com/user-attachments/assets/fb5db687-0fda-4e16-b8b5-39f63791e10e" />
+
 ## 2. Project Duration
 
 - 2024 August ( 1 Month )
@@ -61,3 +64,17 @@ This project aims to invigorate domestic tourism by using AI models to recommend
 - AI :
   - Data Cleaning: Inspection and organization.
   - Preliminary exploration of AI models.
+
+## 6. Results
+
+- Main
+  <img width="534" alt="Screenshot 2025-01-05 at 11 16 47 PM" src="https://github.com/user-attachments/assets/dc719fee-150a-4032-aebe-056547953529" />
+
+- SignIn & SignUp
+  <img width="430" alt="Screenshot 2025-01-05 at 11 16 36 PM" src="https://github.com/user-attachments/assets/caec1e41-55fe-4806-84e2-28b51b14016c" />
+
+- AI result Modal
+  <img width="491" alt="Screenshot 2025-01-05 at 11 16 20 PM" src="https://github.com/user-attachments/assets/c0208143-6343-46bd-b0d6-8d4bb397baff" />
+
+- Travel Planning
+  <img width="375" alt="Screenshot 2025-01-05 at 11 16 07 PM" src="https://github.com/user-attachments/assets/8ad202ed-b0d5-4126-8781-8bd4e6e569dd" />
